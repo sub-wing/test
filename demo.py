@@ -1,2 +1,2 @@
 print("你好呀")
-print("xnjNCJK")
+print("欢迎来到python")
